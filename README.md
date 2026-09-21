@@ -1,4 +1,4 @@
-# Colorfish Test — Experimental Platform (English)
+# Colorfish Test — Experimental Platform
 
 This repository contains the source code for the web-based experimental platform used to
 collect data for **"The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective
