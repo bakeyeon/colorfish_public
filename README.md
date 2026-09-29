@@ -60,6 +60,7 @@ used during the study's data collection period and is not actively maintained.
 
 If you use this code or the associated dataset, please cite the paper.
 
+```
 @inproceedings{park2026grue,
   title     = {The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective Alignment},
   author    = {Park, Kai},
@@ -68,6 +69,7 @@ If you use this code or the associated dataset, please cite the paper.
   doi       = {10.5281/zenodo.23029892},
   url       = {https://github.com/bakeyeon/colorfish_public}
 }
+```
 
 [![DOI](https://zenodo.org/badge/1379699378.svg)](https://doi.org/10.5281/zenodo.23029891)
 
