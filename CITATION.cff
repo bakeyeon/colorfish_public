@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, dataset, or paper, please cite it as below."
+authors:
+  - family-names: "Park"
+    given-names: "Kai"
+title: "The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective Alignment"
+version: 1.0.0
+doi: "10.5281/zenodo.23029891"
+date-released: "2026-09-29"
+url: "https://github.com/bakeyeon/colorfish_public"
+repository-code: "https://github.com/bakeyeon/colorfish_public"
+keywords:
+  - "computational-linguistics"
+  - "ai-alignment"
+  - "color-perception"
+  - "pragmatic-gap"
+  - "korean-language"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Park"
+      given-names: "Kai"
+  title: "The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective Alignment"
+  collection-title: "Proceedings of the EMNLP 2026 Workshop on PANDORA"
+  year: 2026
+  doi: "10.5281/zenodo.23029891"
+  url: "https://github.com/bakeyeon/colorfish_public"
