@@ -21,7 +21,7 @@ preferred-citation:
     - family-names: "Park"
       given-names: "Kai"
   title: "The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective Alignment"
-  collection-title: "Proceedings of the EMNLP 2026 Workshop on PANDORA"
+  collection-title: "Proceedings of the 1st Workshop on Pluralistic AI & NLP (PANDORA @ EMNLP 2026)"
   year: 2026
   doi: "10.5281/zenodo.23029891"
   url: "https://github.com/bakeyeon/colorfish_public"
