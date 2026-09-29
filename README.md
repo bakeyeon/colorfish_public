@@ -58,8 +58,9 @@ used during the study's data collection period and is not actively maintained.
 
 ## Citation
 
-If you use this code or the associated dataset, please cite the paper (citation details
-to be added upon publication).
+If you use this code or the associated dataset, please cite the paper.
+
+[![DOI](https://zenodo.org/badge/1379699378.svg)](https://doi.org/10.5281/zenodo.23029891)
 
 ## License
 
