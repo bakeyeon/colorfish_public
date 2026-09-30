@@ -18,6 +18,7 @@ actively collecting data):
 
 - Korean: <https://colorfish-kr.lovable.app>
 - English: <https://color-vision-spark-en.lovable.app>
+- FAQ: <https://bakeyeon.github.io/colorfish/>
 
 ## Data and analysis
 
