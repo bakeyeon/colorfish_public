@@ -62,17 +62,29 @@ used during the study's data collection period and is not actively maintained.
 If you use this code or the associated dataset, please cite the paper.
 
 ```
-@inproceedings{park2026grue,
-  title     = {The Grue Divide: When Cognitive Accuracy Doesn't Predict Affective Alignment},
-  author    = {Park, Kai},
-  booktitle = {Proceedings of the 1st Workshop on Pluralistic AI \& NLP (PANDORA @ EMNLP 2026)},
-  year      = {2026},
-  doi       = {10.5281/zenodo.23029892},
-  url       = {https://github.com/bakeyeon/colorfish_public}
+@inproceedings{park-2026-grue,
+    title = "The Grue Divide: When Cognitive Accuracy Doesn{'}t Predict Affective Alignment",
+    author = "Park, Kai",
+    editor = "Xu, Shanshan  and
+      T.Y.S.S., Santosh  and
+      Kurniawan, Kemal  and
+      Peng, Siyao  and
+      Wallbridge, Sarenne  and
+      Koto, Fajri  and
+      Dziri, Nouha  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the First Workshop on Pluralistic {AI} {NLP}: Diversity-aware, Sociotechnical, Responsible Alignment ({PANDORA} 2026)",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.pandora-1.2/",
+    pages = "35--68",
+    ISBN = "979-8-89176-484-2",
+    abstract = "This study presents a large-scale, exploratory investigation (9,534 trials from 1,159 participants) of color perception, cognition, and emotion in the Korean ``Grue'' spectrum, finding results consistent with a cognitive advantage for Korean speakers over English-speaking cohorts, particularly in Grue transitions. One illustrative case{---}the ``Australia Divergence''{---}shows comparable cognitive accuracy between Korean and Australian cohorts in a preliminary, small-sample comparison (132 trials) that nonetheless appears to diverge affectively under the Sentiment-Formality-Friendliness (SFF) framework, consistent with a cognitive-affective decoupling in which perceptual precision may be shared across cultures while affective mapping remains culturally distinct. As a correlational, hypothesis-generating study, we offer these findings as a basis for future confirmatory research rather than as definitive claims, positioning SFF as a promising exploratory tool for capturing culturally mediated ``emotional fingerprints'' that traditional cognitive metrics may miss, though further validation against human ratings remains needed."
 }
 ```
 
-[![DOI](https://zenodo.org/badge/1379699378.svg)](https://doi.org/10.5281/zenodo.23029891)
 
 ## License
 
